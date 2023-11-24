@@ -5,12 +5,19 @@ Visão Geral
 Características:  
 
   Cadastro de Produto: Permite aos usuários adicionar novos produtos ao estoque.
+  
   Consulta de Produto: Os usuários podem consultar os detalhes de um produto específico.
+  
   Listagem de Produtos: Exibe todos os produtos cadastrados no sistema.
+  
   Atualização de Cadastro: Permite atualizar os detalhes de um produto existente.
+  
   Exclusão de Cadastro: Remove um produto do sistema.
+  
   Tratamento de Erros: O sistema inclui tratamento de erros para garantir a robustez.
+  
   Validações: Assegura que os campos obrigatórios sejam preenchidos adequadamente.
+  
   
 Tecnologias Utilizadas:
 
