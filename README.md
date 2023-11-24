@@ -9,6 +9,7 @@ Características:
   Exclusão de Cadastro: Remove um produto do sistema.
   Tratamento de Erros: O sistema inclui tratamento de erros para garantir a robustez.
   Validações: Assegura que os campos obrigatórios sejam preenchidos adequadamente.
+  
 Tecnologias Utilizadas
   Python: Linguagem de programação principal.
   JSON: Formato de arquivo para armazenar os dados do produto.
